@@ -1,0 +1,4 @@
+subprojects {
+    // settings.gradleにincludeされているもの全てに適用される
+    println project.name
+}
